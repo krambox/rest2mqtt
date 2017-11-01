@@ -1,0 +1,24 @@
+{
+  "name": "rest2mqtt",
+  "version": "1.0.0",
+  "description": "## Config",
+  "main": "rest2mqtt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krambox/rest2mqtt.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krambox/rest2mqtt/issues"
+  },
+  "homepage": "https://github.com/krambox/rest2mqtt#readme",
+  "dependencies": {
+    "hapi": "^16.6.2",
+    "mqtt": "^2.13.1",
+    "require-yaml": "0.0.1"
+  }
+}
